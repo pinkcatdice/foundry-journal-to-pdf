@@ -1,0 +1,22 @@
+{
+  "name": "journal-to-pdf",
+  "title": "Journal to PDF Exporter",
+  "description": "Allows exporting Foundry VTT journals as PDF files.",
+  "version": "1.0.0",
+  "author": "PinkCat",
+  "minimumCoreVersion": "11",
+  "compatibleCoreVersion": "12",
+  "scripts": [
+    "https://cdnjs.cloudflare.com/ajax/libs/jspdf/2.5.1/jspdf.umd.min.js",
+    "scripts/module.js"
+  ],
+  "styles": [
+    "styles/module.css"
+  ],
+  "esmodules": [],
+  "packs": [],
+  "languages": [],
+  "url": "https://github.com/your-repository",
+  "manifest": "https://your-repository/raw/main/module.json",
+  "download": "https://your-repository/raw/main/module.zip"
+}
