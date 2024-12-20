@@ -16,7 +16,7 @@
   "esmodules": [],
   "packs": [],
   "languages": [],
-  "url": "https://github.com/your-repository",
-  "manifest": "https://your-repository/raw/main/module.json",
-  "download": "https://your-repository/raw/main/module.zip"
+  "url": "https://github.com/pinkcatdice/foundry-journal-to-pdf",
+  "manifest": "https://github.com/pinkcatdice/foundry-journal-to-pdf/blob/09d34a27fec6f9f2224e62eac4739736e88e2a8d/module.json",
+  "download": "https://github.com/pinkcatdice/foundry-journal-to-pdf/archive/refs/heads/main.zip"
 }
